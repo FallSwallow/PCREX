@@ -1,7 +1,0 @@
-修正最有可能輸出
-區塊 right_top 最有可能組合: m.png + index_3.png (front=0.6200, back=0.6366)
-區塊 right_top 最有可能組合: txt_MagDef.png + index_08%.png (front=0.7958, back=0.8540)
-目前會跳出兩組
-
-修正mode1刷攻擊力時不要檢測貫通
-
